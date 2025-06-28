@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "The Cyber Wave",
-  description: "The Cyber Wave",
+  title: "THE CYBER WAVE",
+  description: "Empowering Digital Transformation",
 };
 
 export default function RootLayout({ children }) {
